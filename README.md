@@ -1,3 +1,4 @@
 # Analytics-Vidhya-Jobathon-Rank-5-Private-Leaderboard
-My rank 5 Analytics Vidhya Solution
+1. Documentation and Approach have been added as markdown cell in the code file.
+2. Pseudolabelling was used.
  
